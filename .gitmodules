@@ -1,0 +1,9 @@
+[submodule "lib/WinSysMemoryControl"]
+	path = lib/WinSysMemoryControl
+	url = https://github.com/WinSysUtil/WinSysMemoryControl
+[submodule "lib/WinSysCommon"]
+	path = lib/WinSysCommon
+	url = https://github.com/WinSysUtil/WinSysCommon
+[submodule "lib/WinSysHTTP"]
+	path = lib/WinSysHTTP
+	url = https://github.com/WinSysUtil/WinSysHTTP
